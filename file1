@@ -1,0 +1,39 @@
+#include<stdio.h>
+main()
+{
+int a,b,c;
+clrscr();
+printf("Enter the value of 'A' : ");
+scanf("%d",&a);
+printf("Enter the value of 'B' : ");
+scanf("%d",&b);
+if(a > b)
+printf(" The bigger value = %d and the smaller value = %d",a,b);
+else
+printf(" The bigger value = %d and the smaller value = %d",b,a);
+getch();
+}
+
+========================================================
+
+Testing of Pull and Push
+===================================================
+
+assing some extra lines to understand concepts clearly
+
+
+=====================================
+
+Bay Jaan Dil ko teri Ishak k Jindha kiya
+
+Fir teri ishak n he iss Dil ko tabka kiya,
+
+=========================================
+
+Tadap Tadap K is dil se Aaha nikalti rahi
+
+Muzko saza di pyarr me aisa ky guhana kiya
+
+k Loot gaye ha Loot gaye hum teri Mohabbat me.
+
+=============================================
